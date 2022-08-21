@@ -6,3 +6,6 @@ Anvils is fully MXLinux but comes with more power out of the box, it has all the
 
 ## When will Anvils Release?
 There is no specfic date for Anvils to go public, it is still under development, and on the date of its release, all the code of it will be open sourced.
+
+## Please Understand
+Please understand that Anvils will completely be a hobby distribution, and can go away without notice anytime, although, that wont happen
