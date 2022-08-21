@@ -4,8 +4,5 @@ Anvils is a fast, powerful operating system based on MXLinux, which makes Deskto
 ## Why Anvils and not MX?
 Anvils is fully MXLinux but comes with more power out of the box, it has all the MXTools and uses the MXKernel (AHS), the main difference between anvils and MX is the desktop customizations and some of the optimizations made in anvils.
 
-## When will Anvils Release?
-There is no specfic date for Anvils to go public, it is still under development, and on the date of its release, all the code of it will be open sourced.
-
-## Please Understand
-Please understand that Anvils will completely be a hobby distribution, and can go away without notice anytime, although, that wont happen
+# Anvils Release Information
+Anvils Version 1-2182022 ISO is prepared and ready to go, a torrent will be hosted soon for the download!
