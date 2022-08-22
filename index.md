@@ -1,9 +1,9 @@
 ![Anvils](https://github.com/iamshivayep/AnvilsProject/blob/gh-pages/LOGO.png)
 
 # News!
-This is to inform all the users of The Anvils Gnome edition That it is no longer the flagship edition of Anvils! a new xfce flagship will release in 1-2weeks
-[Anvils Wiki](https://iamshivayep.github.io/Anvils-Wiki)
-[Gnome edition Image](https://drive.google.com/file/d/1h4dGFStdDPw9bK0LDTdHA3NvN1DuuuI4/view?usp=sharing)
+This is to inform all the users of The Anvils Gnome edition That it is no longer the flagship edition of Anvils! a new xfce flagship will release in 1-2weeks, here are some links you may find useful!:
+- [Anvils Wiki](https://iamshivayep.github.io/Anvils-Wiki)
+- [Gnome edition Image](https://drive.google.com/file/d/1h4dGFStdDPw9bK0LDTdHA3NvN1DuuuI4/view?usp=sharing)
 
 *Note that anvils is still a pre-release software, which may have a lot of bugs
 
