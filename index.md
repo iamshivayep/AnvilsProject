@@ -14,3 +14,5 @@ You can take a look at the [Anvils Handbook](https://github.com/iamshivayep/Anvi
 
 # Contributions
 Anvils is created using the Custom Ubuntu Image Creator tool (CUBIC), so unfortunately, there is no way to contribute to anvils except suggestions, but if you have the effort and storage to host the iso so we can check out your modified iso, feel free to host it, you just have to edit anvilsOS latest .iso file in cubic to make your very own Anvils, eventually i will figure out a way to contribute
+
+## Anvils is completely a hobby distribution, and if you are using Anvils, there is no gurantee of the software you are using and if you encounter any problems, feel free to fix them yourself.
