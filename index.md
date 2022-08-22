@@ -1,11 +1,14 @@
 ![Anvils](https://github.com/iamshivayep/AnvilsProject/blob/gh-pages/LOGO.png)
 
 # News!
-This is to inform all the users of The AnvilsOS that we are switching bases again, although, we are confident on our new base, FEDORA! i know it is irritating for the FOSS torrent guys and the people using Anvils. but it is what it is, ubuntu was just not a comfortable base and as it is the starting days of Anvils i thought to change it
+This is to inform all the users of The Anvils Gnome edition That it is no longer the flagship edition of Anvils! a new xfce flagship will release in 1-2weeks
+[Anvils Wiki](https://iamshivayep.github.io/Anvils-Wiki)
+[Gnome edition Image](https://drive.google.com/file/d/1h4dGFStdDPw9bK0LDTdHA3NvN1DuuuI4/view?usp=sharing)
 
+*Note that anvils is still a pre-release software, which may have a lot of bugs
 
 ## Welcome to Anvils
-Anvils is a fast, powerful operating system based on fedora, which makes Desktop Linux friendly 
+Anvils is a fast, powerful operating system based on the solid base of ubuntu, which makes Desktop Linux friendly 
 
 
 
