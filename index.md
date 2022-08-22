@@ -1,10 +1,10 @@
 ![Anvils](https://github.com/iamshivayep/AnvilsProject/blob/gh-pages/LOGO.png)
 
 ## Welcome to Anvils
-Anvils is a fast, powerful operating system based on MXLinux, which makes Desktop Linux friendly 
+Anvils is a fast, powerful operating system based on Ubuntu, which makes Desktop Linux friendly 
 
-## Why Anvils and not MX?
-Anvils is fully MXLinux but comes with more power out of the box, it has all the MXTools and uses the MXKernel (AHS), the main difference between anvils and MX is the desktop customizations and some of the optimizations made in anvils.
+## Why Anvils and not Ubuntu?
+Anvils is bug-for-bug compaitible with Ubuntu Linux, but ubuntu has a major issue of slowness and snap packages, which are a headache to remove, Anvils does that fixes for you and it also has some optimizations made to it.
 
-# Anvils Release Information
-Anvils Version 1-2182022 ISO is prepared and ready to go, a torrent will be hosted soon for the download!
+# Installation Guide
+You can take a look at the [Anvils Handbook](https://github.com/iamshivayep/AnvilsProject/wiki) for installation instructions
