@@ -23,3 +23,5 @@ the SNTI note of anvils releases is something not that important and this time, 
 
 # Thats it!
 We thank the developers and the Anvils Team for this release, 1.5 wasn't meant to be a major release, rather a point release, but the bugs of anvils made it a major release! thank you
+
+
