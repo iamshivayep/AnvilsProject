@@ -2,10 +2,13 @@
 
 
 
-*Note that anvils is still a pre-release software, which may have a lot of bugs
+>*Anvils got released!*
 
 ## Welcome to Anvils
 Anvils is a fast, powerful operating system based on the solid base of ubuntu, which makes Desktop Linux friendly 
+
+#
+Download Anvils [here](https://iamshivayep.github.io/AnvilsProject/download)
 
 # Check out Anvils Wiki and News for new releases and changelogs
 - [wiki](https://iamshivayep.github.io/AnvilsWiki)
