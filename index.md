@@ -14,6 +14,9 @@ Download Anvils [here](https://iamshivayep.github.io/AnvilsProject/download)
 - [wiki](https://iamshivayep.github.io/Anvils-Wiki)
 - [news](https://iamshivayep.github.io/AnvilsProject/news)
 
+# Contributing
+Hey! so you want to contribute to *Anvils*? Well you can! you can check my [Github](https://github.com/iamshivayep) for the source code of anvils and its utilities!
+
 ## Anvils is completely a hobby distribution, and if you are using Anvils, there is no gurantee of the software you are using and if you encounter any problems, feel free to fix them yourself.
 
 
