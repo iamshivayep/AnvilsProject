@@ -9,7 +9,9 @@ Anvils is a fast, powerful operating system based on the solid base of ubuntu, w
 
 # Anvils Beta Programme
 Please help us make anvils a better os for everyone, by testing our Raw Releases, read more and download links [here](https://iamshivayep.github.io/AnvilsProject/Anvils-Raw)
-> Download Anvils [here](https://iamshivayep.github.io/AnvilsProject/download)
+
+# Download Anvils
+Download Anvils 1.5 LTS [here](https://iamshivayep.github.io/AnvilsProject/download)
 
 # Check out Anvils Wiki and News for new releases and changelogs
 - [wiki](https://iamshivayep.github.io/Anvils-Wiki)
