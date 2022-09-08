@@ -1,11 +1,11 @@
 # Releasing Anvils Raw 2.0-2
-> *Want to test it? test it!*
+*Want to test it? test it!*
 # What is Anvils Raw?
 Ever since Anvils Released, it has been a community of people, and we wanted to make it a community distribution with community participation as much as possible, so we rolled a new channel of Anvils OS, the Raw channel, this is a rolling channel with latest LTS Base and groundbreaking changes, this is the beta of version 2.0 codenamed "dreamer"
 # Not too amazing changes
 These changes are not affecting your workflow with anvils, these are QOL (quality of life) changes. 
 - *New! wallpaper* Anvils has made its own wallpaper now, which looks like this:
-![Image-wallpaper-anvils](https://imgur.com/a/PqgI2Lz)
+![Image-wallpaper-anvils](https://i.imgur.com/6nXvFIi.png)
 # Amazing Changes
 - Plank dock is being used out of the box now
 - Replaced the Theme to fluent-gray-dark by vinceliuice on github
