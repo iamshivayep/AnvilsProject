@@ -10,5 +10,6 @@ Anvils has the ubuntu greatness with its customized tweaks and optimizations tak
 - [Github](https://github.com/iamshivayep)
 - [Download Anvils](https://iamshivayep.github.io/AnvilsProject/download)
 - [Anvils Beta(Raw) Releases](https://iamshivayep.github.io/AnvilsProject/Anvils-Raw)
+- [Anvils News](https://iamshivayep.github.io/AnvilsProject/news)
 
 ### Anvils is completely hobby distribution, fix problems yourself or read the wiki!
