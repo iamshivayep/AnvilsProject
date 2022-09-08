@@ -1,4 +1,4 @@
-# Releasing Anvils 1.5 LTS (wildride)
+# Latest Changelog
 >*the ride is wild, and anvils wildride is here*
 
 # Major Changes
