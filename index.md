@@ -1,4 +1,5 @@
 ![Anvils](https://raw.githubusercontent.com/iamshivayep/AnvilsProject/gh-pages/Anvils_logo.png)
+*Anvils Development has been suspended till 20th October, Due to my school stuffs, Development will start for 2.5 on 21st October 2022, till then no development action is expected**
 # What is Anvils?
 Anvils is a fast, simple, and easy to use operating system for everyone
 
