@@ -15,4 +15,4 @@ Anvils has the ubuntu greatness with its customized tweaks and optimizations tak
 - [Anvils Official Discord server (for support and community talks!)](https://discord.gg/73cf9Btnwf)
 ### Anvils is completely hobby distribution, fix problems yourself or read the wiki!
 # Important
-*Anvils Development has been suspended till 20th October, Due to my school stuffs, Development will start for 2.5 on 21st October 2022, till then no development action is expected*
+***Development suspension removed! 2.0.2 released!***
